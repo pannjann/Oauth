@@ -6,5 +6,8 @@ module.exports = {
     },
     mongodb: {
         dbURI: 'mongodb://netninja:123Jan@ds253203.mlab.com:53203/nn-oauth'
+    },
+    session: {
+        cookieKey: 'thenetninja'
     }
 }; 
